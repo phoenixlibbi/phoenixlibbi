@@ -30,7 +30,7 @@
     </td>
  
   <td align='center'>
-        <img src="https://www.computerhope.com/jargon/b/bootstrap.jpg">
+        <img src="https://www.computerhope.com/jargon/b/bootstrap.jpg" height="50px">
     </td>
 </tr>
  
