@@ -29,7 +29,9 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="80">
     </td>
  
- 
+  <td align='center'>
+        <img src="https://www.computerhope.com/jargon/b/bootstrap.jpg">
+    </td>
 </tr>
  
 <tr>
@@ -45,9 +47,7 @@
      <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.png">
     </td>
-    <td align='center'>
-        <img src="https://www.computerhope.com/jargon/b/bootstrap.jpg">
-    </td>
+   
 </tr>
  
 
