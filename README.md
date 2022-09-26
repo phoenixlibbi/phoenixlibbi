@@ -30,7 +30,7 @@
     </td>
  
   <td align='center'>
-        <img src="https://www.computerhope.com/jargon/b/bootstrap.jpg" height="60px">
+        <img src="https://www.computerhope.com/jargon/b/bootstrap.jpg" height="65px">
     </td>
 </tr>
  
@@ -45,7 +45,7 @@
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
     </td>
      <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.png" width="80">
+        <img src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.png" width="85">
     </td>
    
 </tr>
