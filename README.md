@@ -3,7 +3,7 @@
     <h1> Hi there, I'm Muhammad Labeeb Tariq👋<a href="#"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/phoenixlibbi"><img src="https://readme-typing-svg.herokuapp.com?lines=Cpp;Node+js;Express+js;mongo+DB; React;Python;HTML+Css+Js+jQuery;&center=true&width=500&height=50"></a>
+<a href="https://github.com/phoenixlibbi"><img src="https://readme-typing-svg.herokuapp.com?lines=Cpp;HTML+Css+Js+jQuery;&center=true&width=500&height=50"></a>
 	
 
 ### I'm a Software Engineering student!
