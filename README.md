@@ -5,7 +5,8 @@
     <p>
       <a href="mailto:labeebjutt80@gmail.com">📧 Email</a> |
       <a href="https://www.linkedin.com/in/muhammad-labeeb-tariq-86a5b2197/">🔗 LinkedIn</a> |
-      <a href="https://github.com/phoenixlibbi">🐙 GitHub</a>
+      <a href="https://github.com/phoenixlibbi">🐙 GitHub</a> |
+      <a href="https://labeeb-inky.vercel.app/">🌐 Portfolio</a>
     </p>
   </div>
 
@@ -20,6 +21,7 @@
 ---
 
 ### ✨ About Me
+- 🎓 Final-year **Software Engineering student at UET Lahore (CGPA: 3.2)**.  
 - 💼 Currently working as a **Full Stack Developer @ Pulcify (UK)**.  
 - ⚡ Previously at **DigitallyUp (UK)** & **Center for Language Engineering (UET Lahore)**.  
 - 🌱 Diving deeper into **AI, LangChain, and React Native**.  
@@ -49,6 +51,12 @@
   <td align='center'><img src="https://skillicons.dev/icons?i=mysql" width="65"><br>MySQL</td>
   <td align='center'><img src="https://skillicons.dev/icons?i=mongodb" width="65"><br>MongoDB</td>
   <td align='center'><img src="https://skillicons.dev/icons?i=docker" width="65"><br>Docker</td>
+</tr>
+<tr>
+  <td align='center'><img src="https://skillicons.dev/icons?i=git" width="65"><br>Git</td>
+  <td align='center'><img src="https://skillicons.dev/icons?i=github" width="65"><br>GitHub</td>
+  <td align='center'><img src="https://skillicons.dev/icons?i=postman" width="65"><br>Postman</td>
+  <td align='center'><img src="https://skillicons.dev/icons?i=vscode" width="65"><br>VS Code</td>
 </tr>
 </table>
 
