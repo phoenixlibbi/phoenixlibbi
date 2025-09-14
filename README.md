@@ -101,3 +101,17 @@
 </p>
 
 ---
+
+## 💡 Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/>
+</p>
+
+---
+
+## 📊 Languages Breakdown
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoenixlibbi&layout=compact&theme=radical" alt="top langs"/>
+</p>
+
+---
