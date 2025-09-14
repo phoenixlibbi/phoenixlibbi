@@ -95,9 +95,9 @@
 
 ---
 
-## 🐍 GitHub Magic Snake
+## 📈 Contribution Activity Graph
 <p align="center">
-  <img src="https://github.com/saadfareed/saadfareed/raw/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phoenixlibbi&theme=react-dark&hide_border=true" alt="activity graph"/>
 </p>
 
 ---
