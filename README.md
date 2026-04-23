@@ -21,7 +21,6 @@
 ---
 
 ### ✨ About Me
-- 🎓 Final-year **Software Engineering student at UET Lahore (CGPA: 3.2)**.  
 - 💼 Currently working as a **Full Stack Developer @ Pulcify (UK)**.  
 - ⚡ Previously at **DigitallyUp (UK)** & **Center for Language Engineering (UET Lahore)**.  
 - 🌱 Diving deeper into **AI, LangChain, and React Native**.  
