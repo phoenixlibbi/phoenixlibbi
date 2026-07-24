@@ -1,7 +1,7 @@
 <body>
   <div align="center">
     <h1>👋 Hi, I'm Muhammad Labeeb Tariq</h1>
-    <h3>🚀 Software Engineer | Full-Stack Developer | AI & LLM Enthusiast</h3>
+    <h3>🧠 AI POD Lead & LLM Engineer | Full-Stack Developer</h3>
     <p>
       <a href="mailto:labeebjutt80@gmail.com">📧 Email</a> |
       <a href="https://www.linkedin.com/in/muhammad-labeeb-tariq-86a5b2197/">🔗 LinkedIn</a> |
@@ -14,68 +14,109 @@
 
 <p align="center">
   <a href="https://github.com/phoenixlibbi">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;AI+%26+LLM+Integrator;React+%7C+SpringBoot+%7C+Django;Always+learning+new+things;&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=AI+POD+Lead+%26+LLM+Engineer;LLM+Evaluation+%7C+RLHF+%7C+SFT;Terminal-Bench+%7C+OSWorld+%7C+SWE-Bench;React+%7C+Python+%7C+Docker;&center=true&width=560&height=50">
   </a>
 </p>
 
 ---
 
 ### ✨ About Me
-- 💼 Currently working as a **Full Stack Developer @ Pulcify (UK)**.  
-- ⚡ Previously at **DigitallyUp (UK)** & **Center for Language Engineering (UET Lahore)**.  
-- 🌱 Diving deeper into **AI, LangChain, and React Native**.  
-- 🧩 Love solving problems, building things, and making code look like art.  
-- 🎯 **2025 Goal:** Ship more open-source AI tools & impactful apps.  
-- 💬 Ask me about **LLMs, React, Spring Boot, Django, or automation**.  
+- 🧠 **Data Judge / Researcher @ Mercor** — LLM evaluation & AI research across reasoning, writing, research, and instruction-following.
+- 🚀 Previously **AI POD Lead / LLM Engineer @ Turing** — frontier-model evaluation for **Meta, Alibaba, and Tencent**.
+- 🛠️ Background in full-stack product engineering at **Pulcify** and **Digitally Up**, plus LLM research at **CLE, KICS UET Lahore**.
+- 🧪 Build deterministic benchmarks with **Dockerized Linux**, oracle/golden solutions, and **pytest** evaluation suites.
+- 💬 Ask me about **LLM evaluation, RLHF/SFT, Terminal-Bench, OSWorld, SWE-Bench, React, or LangChain**.
+
+---
+
+## 💼 Work Experience
+
+| Role | Company | Duration |
+|------|---------|----------|
+| 🧠 Data Judge / Researcher | **Mercor** (Remote, USA) | Mar 2026 – Present |
+| 🚀 AI POD Lead / LLM Engineer | **Turing** (Remote, USA) | Sep 2025 – May 2026 |
+| 🛠️ Lead Software Engineer | **Pulcify** (Remote, UK) | Jul 2025 – Sep 2025 |
+| 💻 Software Engineer | **Digitally Up** (Remote, UK) | Jun 2023 – Jul 2025 |
+| 🔬 LLM Researcher Intern | **CLE, KICS UET Lahore** | Jun 2023 – Sep 2023 |
+
+<details>
+<summary><b>Role highlights</b></summary>
+
+<br/>
+
+**Mercor — Data Judge / Researcher**
+- Evaluate and rank LLM outputs with rubric-based QA (accuracy, reasoning, consistency, user-intent alignment).
+- Design/review prompts, datasets, and evaluation frameworks; surface hallucinations, ambiguity, and reasoning failures.
+- Lead calibration, final-batch QA, and dataset-quality work for RLHF reliability.
+
+**Turing — AI POD Lead / LLM Engineer**
+- Led benchmarking across **OSWorld**, **TB 1.0**, **TB Harbor 2.0**, **Meta OpenClaw**, and **SWE-Bench**-style projects as POD Lead & QA Lead.
+- Delivered frontier-model evaluation datasets for enterprise clients including **Meta, Alibaba, and Tencent**.
+- Designed reproducible Dockerized Linux environments with pinned deps, oracle solutions, and pytest suites.
+- Ran large-scale **RLHF / SFT / LLM response evaluation** workflows and improved inter-rater consistency.
+
+**Pulcify — Lead Software Engineer**
+- Built a scalable workforce management platform with AI-driven features.
+- Led frontend delivery and AI ↔ UI integration (React, LangChain, Shadcn).
+
+**Digitally Up — Software Engineer**
+- Shipped React + Shadcn frontends with LLM/LangChain automation features.
+- Implemented Google Maps geospatial flows (live tracking, geolocation, interactive maps).
+
+**CLE, KICS UET Lahore — LLM Researcher Intern**
+- Researched GPT-based text summarization; literature review and fine-tuning for specialized NLP tasks.
+
+</details>
 
 ---
 
 ## 🛠️ Tech Stack
 
+**Core focus:** LLM Evaluation · RLHF / SFT · Prompt Engineering · Benchmarking · Full-Stack AI Apps
+
 <table width="100%">
 <tr>
+  <td align='center'><img src="https://skillicons.dev/icons?i=python" width="65"><br>Python</td>
   <td align='center'><img src="https://skillicons.dev/icons?i=react" width="65"><br>React.js</td>
-  <td align='center'><img src="https://skillicons.dev/icons?i=nextjs" width="65"><br>Next.js</td>
   <td align='center'><img src="https://skillicons.dev/icons?i=ts" width="65"><br>TypeScript</td>
   <td align='center'><img src="https://skillicons.dev/icons?i=javascript" width="65"><br>JavaScript</td>
 </tr>
 <tr>
-  <td align='center'><img src="https://skillicons.dev/icons?i=python" width="65"><br>Python</td>
-  <td align='center'><img src="https://skillicons.dev/icons?i=java" width="65"><br>Java</td>
-  <td align='center'><img src="https://skillicons.dev/icons?i=spring" width="65"><br>Spring Boot</td>
   <td align='center'><img src="https://skillicons.dev/icons?i=django" width="65"><br>Django</td>
+  <td align='center'><img src="https://skillicons.dev/icons?i=flask" width="65"><br>Flask</td>
+  <td align='center'><img src="https://skillicons.dev/icons?i=cpp" width="65"><br>C++</td>
+  <td align='center'><img src="https://skillicons.dev/icons?i=bash" width="65"><br>Bash</td>
 </tr>
 <tr>
-  <td align='center'><img src="https://skillicons.dev/icons?i=flask" width="65"><br>Flask</td>
-  <td align='center'><img src="https://skillicons.dev/icons?i=mysql" width="65"><br>MySQL</td>
-  <td align='center'><img src="https://skillicons.dev/icons?i=mongodb" width="65"><br>MongoDB</td>
   <td align='center'><img src="https://skillicons.dev/icons?i=docker" width="65"><br>Docker</td>
+  <td align='center'><img src="https://skillicons.dev/icons?i=linux" width="65"><br>Linux</td>
+  <td align='center'><img src="https://skillicons.dev/icons?i=postgres" width="65"><br>PostgreSQL</td>
+  <td align='center'><img src="https://skillicons.dev/icons?i=mysql" width="65"><br>MySQL</td>
 </tr>
 <tr>
   <td align='center'><img src="https://skillicons.dev/icons?i=git" width="65"><br>Git</td>
   <td align='center'><img src="https://skillicons.dev/icons?i=github" width="65"><br>GitHub</td>
-  <td align='center'><img src="https://skillicons.dev/icons?i=postman" width="65"><br>Postman</td>
   <td align='center'><img src="https://skillicons.dev/icons?i=vscode" width="65"><br>VS Code</td>
+  <td align='center'><img src="https://skillicons.dev/icons?i=py" width="65"><br>Pytest</td>
 </tr>
 </table>
+
+`LangChain` · `Shadcn` · `Google Maps API` · `OSWorld` · `Terminal-Bench` · `SWE-Bench` · `RLHF` · `SFT`
 
 ---
 
 ## 📌 Featured Projects
-- 🛠️ **Pulcify.ai** – Workforce management with smart scheduling, GPS tracking, and automation.  
-- 🔍 **Code Evaluation VS Code Extension (FYP)** – LLM-powered tool for test case generation & code evaluation.  
-- 📄 **Invoice Processing System** – Flask + YOLOv11 + Tesseract + MySQL for invoice automation.  
-- 🧪 **Meliora Products Web App** – Inventory + order management for a chemical products company.  
+- 🛠️ **Pulcify** – Workforce management with AI features, scheduling, GPS tracking (Python, DynamoDB, React, LangChain, Shadcn, Stripe, Google Maps).
+- 🔍 **Code Evaluation VS Code Extension (FYP / Codex)** – LLM-powered JUnit test generation & code evaluation via SFT + GitHub scraping.
+- 📄 **Invoice Processing System (CVIP)** – Flask + YOLOv11 + Tesseract + MySQL for invoice OCR automation.
+- 🧪 **Meliora Products** – Inventory + order management web app for a chemical products company.
+- 🛒 **Django Storefront** – Headless e-commerce API with JWT auth, Celery, Redis, PostgreSQL.
 
 ---
 
-## 💼 Work Experience (Timeline)
-
-| Role | Company | Duration |
-|------|---------|----------|
-| 🚀 Software Engineer – Full Stack Developer | **Pulcify (UK, Remote)** | 2025 – Present |
-| 💻 Software Engineer | **Digitally Up (UK, Remote)** | 2023 – 2025 |
-| 🔬 Research Intern | **Center for Language Engineering, UET Lahore** | 2023 |
+## 🎓 Education
+- **BS Software Engineering** — University of Engineering and Technology (UET) Lahore
+- **ICS (Intermediate in Computer Science)** — Government College of Technology (GCT) Lahore
 
 ---
 
