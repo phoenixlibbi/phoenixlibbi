@@ -74,34 +74,23 @@
 
 **Core focus:** LLM Evaluation · RLHF / SFT · Prompt Engineering · Benchmarking · Full-Stack AI Apps
 
-<table width="100%">
-<tr>
-  <td align='center'><img src="https://skillicons.dev/icons?i=python" width="65"><br>Python</td>
-  <td align='center'><img src="https://skillicons.dev/icons?i=react" width="65"><br>React.js</td>
-  <td align='center'><img src="https://skillicons.dev/icons?i=ts" width="65"><br>TypeScript</td>
-  <td align='center'><img src="https://skillicons.dev/icons?i=javascript" width="65"><br>JavaScript</td>
-</tr>
-<tr>
-  <td align='center'><img src="https://skillicons.dev/icons?i=django" width="65"><br>Django</td>
-  <td align='center'><img src="https://skillicons.dev/icons?i=flask" width="65"><br>Flask</td>
-  <td align='center'><img src="https://skillicons.dev/icons?i=cpp" width="65"><br>C++</td>
-  <td align='center'><img src="https://skillicons.dev/icons?i=bash" width="65"><br>Bash</td>
-</tr>
-<tr>
-  <td align='center'><img src="https://skillicons.dev/icons?i=docker" width="65"><br>Docker</td>
-  <td align='center'><img src="https://skillicons.dev/icons?i=linux" width="65"><br>Linux</td>
-  <td align='center'><img src="https://skillicons.dev/icons?i=postgres" width="65"><br>PostgreSQL</td>
-  <td align='center'><img src="https://skillicons.dev/icons?i=mysql" width="65"><br>MySQL</td>
-</tr>
-<tr>
-  <td align='center'><img src="https://skillicons.dev/icons?i=git" width="65"><br>Git</td>
-  <td align='center'><img src="https://skillicons.dev/icons?i=github" width="65"><br>GitHub</td>
-  <td align='center'><img src="https://skillicons.dev/icons?i=vscode" width="65"><br>VS Code</td>
-  <td align='center'><img src="https://skillicons.dev/icons?i=py" width="65"><br>Pytest</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,django,flask,cpp,c,bash,docker,linux,postgres,mysql,git,github,vscode&perline=8" />
+  </a>
+</p>
 
-`LangChain` · `Shadcn` · `Google Maps API` · `OSWorld` · `Terminal-Bench` · `SWE-Bench` · `RLHF` · `SFT`
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shadcn-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/OSWorld-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Terminal--Bench-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SWE--Bench-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RLHF-6E40C9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SFT-6E40C9?style=for-the-badge" />
+</p>
 
 ---
 
