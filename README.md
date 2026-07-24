@@ -111,7 +111,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phoenixlibbi&show_icons=true&theme=radical" alt="stats" height="160"/>
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=phoenixlibbi&show_icons=true&theme=radical" alt="stats" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=phoenixlibbi&theme=radical" alt="streak" height="160"/>
 </p>
 
@@ -140,7 +140,7 @@
 
 ## 📊 Languages Breakdown
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoenixlibbi&layout=compact&theme=radical" alt="top langs"/>
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=phoenixlibbi&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="top langs" height="180"/>
 </p>
 
 ---
