@@ -8,7 +8,7 @@
 
 <p>
   <a href="mailto:labeebjutt80@gmail.com"><img src="https://api.iconify.design/lucide/mail.svg?color=%2358A6FF" height="18"/> Email</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/muhammad-labeeb-tariq-86a5b2197/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="18"/> LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-labeeb-tariq-86a5b2197/"><img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%230A66C2" height="18"/> LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://github.com/phoenixlibbi"><img src="https://cdn.simpleicons.org/github/c9d1d9" height="18"/> GitHub</a> &nbsp;·&nbsp;
   <a href="https://labeeb-inky.vercel.app/"><img src="https://api.iconify.design/lucide/globe.svg?color=%2358A6FF" height="18"/> Portfolio</a>
 </p>
@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/phoenixlibbi">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%2F+LLM+Engineer+%C2%B7+Researcher;Frontier+Model+Evaluation+%7C+RLHF+%7C+SFT;OSWorld+%7C+Terminal-Bench+%7C+SWE-Bench;Reproducible+Agent+Benchmarks+%26+Eval+Envs;&center=true&width=720&height=50&fontSize=22">
+    <img src="https://readme-typing-svg.demolab.com?lines=AI+%2F+LLM+Engineer+%C2%B7+Researcher;Frontier+Model+Evaluation+%7C+RLHF+%7C+SFT;OSWorld+%7C+Terminal-Bench+%7C+SWE-Bench;Reproducible+Agent+Benchmarks+%26+Eval+Envs;&center=true&width=720&height=50&fontSize=22">
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 ## <img src="https://api.iconify.design/lucide/target.svg?color=%2358A6FF" height="22"/> Focus Areas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LLM_Evaluation-58A6FF?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0iIzU4QTY2RiI+PC9zdmc+" />
+  <img src="https://img.shields.io/badge/LLM_Evaluation-58A6FF?style=flat-square" />
   <img src="https://img.shields.io/badge/RLHF_%2F_SFT-6E40C9?style=flat-square" />
   <img src="https://img.shields.io/badge/Agent_Benchmarks-111111?style=flat-square" />
   <img src="https://img.shields.io/badge/OSWorld-Terminal--Bench-SWE--Bench-21262d?style=flat-square" />
