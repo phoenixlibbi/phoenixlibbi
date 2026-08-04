@@ -158,17 +158,17 @@ Hands-on work spans task design, golden solutions, Dockerized sandboxes, pytest 
 ## <img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%2358A6FF" height="22"/> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=phoenixlibbi&show_icons=true&theme=radical" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=phoenixlibbi&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub stats" height="165"/>
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phoenixlibbi&theme=radical" alt="GitHub streak" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=phoenixlibbi&theme=radical" alt="GitHub streak" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=phoenixlibbi&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" height="165"/>
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=phoenixlibbi&layout=compact&theme=radical&hide_border=true&langs_count=8&count_private=true&cache_seconds=1800" alt="Top languages" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=phoenixlibbi&theme=onedark&row=1&column=7" alt="GitHub trophies"/>
+  <img src="https://github-trophy.vercel.app/?username=phoenixlibbi&theme=onedark&row=1&column=7" alt="GitHub trophies"/>
 </div>
 
 <div align="center">
