@@ -2,13 +2,13 @@
 
 # <img src="https://api.iconify.design/lucide/user-round.svg?color=%2358A6FF" height="22"/> Muhammad Labeeb Tariq
 
-### <img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%2358A6FF" height="20"/> **AI / LLM Engineer · Researcher**
+### <img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%2358A6FF" height="20"/> **RL Engineer & Researcher**
 
-*Frontier model evaluation · RLHF · Agent benchmarks*
+*RL environments · Verifiers & reward design · RLHF · Post-training · LLM evals & benchmarks*
 
 <p>
   <a href="mailto:labeebjutt80@gmail.com"><img src="https://api.iconify.design/lucide/mail.svg?color=%2358A6FF" height="18"/> Email</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/muhammad-labeeb-tariq-86a5b2197/"><img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%230A66C2" height="18"/> LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/labeebtariq/"><img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%230A66C2" height="18"/> LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://github.com/phoenixlibbi"><img src="https://cdn.simpleicons.org/github/c9d1d9" height="18"/> GitHub</a> &nbsp;·&nbsp;
   <a href="https://labeeb-inky.vercel.app/"><img src="https://api.iconify.design/lucide/globe.svg?color=%2358A6FF" height="18"/> Portfolio</a>
 </p>
@@ -17,12 +17,12 @@
 
 <p align="center">
   <a href="https://github.com/phoenixlibbi">
-    <img src="https://readme-typing-svg.demolab.com?lines=AI+%2F+LLM+Engineer+%C2%B7+Researcher;Frontier+Model+Evaluation+%7C+RLHF+%7C+SFT;OSWorld+%7C+Terminal-Bench+%7C+SWE-Bench;Reproducible+Agent+Benchmarks+%26+Eval+Envs;&center=true&width=720&height=50&fontSize=22">
+    <img src="https://readme-typing-svg.demolab.com?lines=RL+Engineer+%C2%B7+Researcher;RL+Environments+%7C+Verifiers+%7C+Reward+Design;RLHF+%7C+Post-Training+%7C+LLM+Evals;Paper+%E2%86%92+Code%3A+one+research+paper+at+a+time&center=true&width=720&height=50&fontSize=22">
   </a>
 </p>
 
 <p align="center">
-  I design and run <b>frontier LLM evaluation</b> workflows—RLHF/SFT data quality, rubric-based judging, and <b>reproducible agent benchmarks</b> in Dockerized Linux with oracle solutions and pytest suites. I ship evaluation at scale for enterprise labs and build full-stack AI products when models need a usable surface.
+  I'm an RL Engineer and Researcher building the <b>environments, verifiers and reward functions</b> that AI agents learn from. I turn research papers into working systems, and I <b>stress-test every reward before a model can game it</b>.
 </p>
 
 ---
@@ -30,24 +30,35 @@
 ## <img src="https://api.iconify.design/lucide/target.svg?color=%2358A6FF" height="22"/> Focus Areas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LLM_Evaluation-58A6FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/RLHF_%2F_SFT-6E40C9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Agent_Benchmarks-111111?style=flat-square" />
-  <img src="https://img.shields.io/badge/OSWorld-Terminal--Bench-SWE--Bench-21262d?style=flat-square" />
-  <img src="https://img.shields.io/badge/Prompt_%26_Dataset_Design-238636?style=flat-square" />
-  <img src="https://img.shields.io/badge/Dockerized_Eval_Envs-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full--Stack_AI_Apps-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/RL_Environments-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Verifiers_%26_Reward_Design-6E40C9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Reward_Hacking_Audits-D9480F?style=flat-square" />
+  <img src="https://img.shields.io/badge/RLHF_%2F_Post--Training-6E40C9?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLM_Evals_%26_Benchmarks-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI_Agents-238636?style=flat-square" />
+  <img src="https://img.shields.io/badge/Research_Engineering-21262d?style=flat-square" />
+  <img src="https://img.shields.io/badge/Founding_%2F_Forward--Deployed_Engineering-21262d?style=flat-square" />
 </p>
 
 ---
 
 ## <img src="https://api.iconify.design/lucide/user.svg?color=%2358A6FF" height="22"/> About
 
-- <img src="https://api.iconify.design/lucide/microscope.svg?color=%2358A6FF" height="18"/> **Data Judge / Researcher @ Mercor** — LLM evaluation across reasoning, writing, research, and instruction-following with rubric QA and dataset calibration.
-- <img src="https://api.iconify.design/lucide/building-2.svg?color=%2358A6FF" height="18"/> Former **AI POD Lead / LLM Engineer @ Turing** — frontier evaluation for **Meta, Alibaba, and Tencent** on OSWorld, Terminal-Bench, Harbor, OpenClaw, and SWE-Bench-style tasks.
-- <img src="https://api.iconify.design/lucide/terminal.svg?color=%2358A6FF" height="18"/> Builds **deterministic eval environments**: pinned deps, golden oracles, pytest harnesses, and inter-rater consistency for RLHF reliability.
-- <img src="https://api.iconify.design/lucide/layers.svg?color=%2358A6FF" height="18"/> Product engineering background at **Pulcify** and **Digitally Up**; early LLM research at **CLE, KICS UET Lahore**.
-- <img src="https://api.iconify.design/lucide/messages-square.svg?color=%2358A6FF" height="18"/> Open to deep dives on **eval design, RLHF data quality, agent benchmarks, LangChain, and reproducible ML ops**.
+- <img src="https://api.iconify.design/lucide/building-2.svg?color=%2358A6FF" height="18"/> **RL Engineer - Researcher @ Turing**: research on RL, RLHF, reward modeling, task hardness and evaluation methodology; environments, verifiers and evaluation harnesses for terminal agents (Harbor), SWE-bench-style coding tasks and computer-use agents.
+- <img src="https://api.iconify.design/lucide/shield-check.svg?color=%2358A6FF" height="18"/> Verifiers, graders and reward signals that hold up under adversarial pressure: deterministic tests, LLM-as-judge, oracle validation and reward-hacking audits.
+- <img src="https://api.iconify.design/lucide/file-code-2.svg?color=%2358A6FF" height="18"/> **Paper → Code**: I implement one research paper at a time end to end and publish the code (see below).
+- <img src="https://api.iconify.design/lucide/cloud.svg?color=%2358A6FF" height="18"/> PII/CII de-identification: a distributed redaction pipeline for almost any input, on cloud infrastructure with Kubernetes and BigQuery.
+- <img src="https://api.iconify.design/lucide/layers.svg?color=%2358A6FF" height="18"/> Earlier: RL Engineer at **Tensium**, Data Judge - Researcher at **Mercor**, Lead Software Engineer at **Pulcify**, Software Engineer at **Digitally Up**, AI research at **KICS, UET Lahore**.
+- <img src="https://api.iconify.design/lucide/messages-square.svg?color=%2358A6FF" height="18"/> Always happy to swap notes on **RL environments, reward design, evals and agents**.
+
+---
+
+## <img src="https://api.iconify.design/lucide/file-code-2.svg?color=%2358A6FF" height="22"/> Paper → Code
+
+| No. | Project | Papers | Finding |
+|-----|---------|--------|---------|
+| 02 | [**SWE Env Forge**](https://github.com/phoenixlibbi/swe-env-forge): any git repo in, verified RL environments for coding agents out | SWE-bench ([arXiv:2310.06770](https://arxiv.org/abs/2310.06770)) · SWE-bench Pro ([arXiv:2509.16941](https://arxiv.org/abs/2509.16941)) | A patch that fixes nothing passes the official SWE-bench grader; SWE Env Forge's hardened verifier rejects it. |
+| 01 | [**Terminal-Bench Reward Lens**](https://github.com/phoenixlibbi/terminal-bench-reward-lens): binary vs. dense rewards for AI agents | Terminal-Bench ([arXiv:2601.11868](https://arxiv.org/abs/2601.11868)) · Long-Horizon-Terminal-Bench ([arXiv:2607.08964](https://arxiv.org/abs/2607.08964)) | An all-zeros answer passed 62% of a task's tests; weights, conditional credit and value tests cut its reward to 0.00. |
 
 ---
 
@@ -55,38 +66,45 @@
 
 | Role | Company | Duration |
 |------|---------|----------|
-| Data Judge / Researcher | **Mercor** (Remote, USA) | Mar 2026 – Present |
-| AI POD Lead / LLM Engineer | **Turing** (Remote, USA) | Sep 2025 – May 2026 |
-| Lead Software Engineer | **Pulcify** (Remote, UK) | Jul 2025 – Sep 2025 |
-| Software Engineer | **Digitally Up** (Remote, UK) | Jun 2023 – Jul 2025 |
-| LLM Researcher Intern | **CLE, KICS UET Lahore** | Jun 2023 – Sep 2023 |
+| RL Engineer - Researcher | **Turing** (Remote, USA) | Aug 2026 – Present |
+| RL Engineer | **Tensium** (Remote, UK) | Jul 2026 – Aug 2026 |
+| Data Judge - Researcher | **Mercor** (Remote, USA) | Mar 2026 – Jun 2026 |
+| RL Engineer | **Turing** (Remote, USA) | Jan 2026 – Mar 2026 |
+| LLM Engineer | **Turing** (Remote, USA) | Sep 2025 – Jan 2026 |
+| Lead Software Engineer | **Pulcify** (Remote, UK) | Jul 2025 – Mar 2026 |
+| Software Engineer | **Digitally Up** (Remote, UK) | May 2023 – Jul 2025 |
+| Artificial Intelligence Researcher | **KICS, UET Lahore** | Jun 2023 – Aug 2023 |
 
 <details>
 <summary><b>Role highlights</b></summary>
 
 <br/>
 
-**Mercor — Data Judge / Researcher**
-- Evaluate and rank LLM outputs with rubric-based QA (accuracy, reasoning, consistency, user-intent alignment).
-- Design and review prompts, datasets, and evaluation frameworks; surface hallucinations, ambiguity, and reasoning failures.
-- Lead calibration, final-batch QA, and dataset-quality work for RLHF reliability.
+**Turing — RL Engineer - Researcher**
+- Conduct research on Reinforcement Learning (RL), RLHF, reward modeling, task hardness, and evaluation methodology, developing challenging research environments and long-horizon tasks to assess model reasoning, planning, tool use, and autonomous problem-solving.
+- Design and implement evaluation harnesses, task environments, verifiers, reward functions, and reproducible benchmarking pipelines across terminal-based agents, Harbor, SWE-Bench-style software engineering, and Computer-Use Agents (CUA), with emphasis on difficulty calibration, reward-hacking prevention, and robust performance measurement.
+- PII/CII de-identification: detecting and redacting personally identifiable and confidential information in large client datasets, replacing each value with a consistent realistic substitute.
 
-**Turing — AI POD Lead / LLM Engineer**
-- Led benchmarking across **OSWorld**, **TB 1.0**, **TB Harbor 2.0**, **Meta OpenClaw**, and **SWE-Bench**-style projects as POD Lead and QA Lead.
-- Delivered frontier-model evaluation datasets for enterprise clients including **Meta, Alibaba, and Tencent**.
-- Designed reproducible Dockerized Linux environments with pinned deps, oracle solutions, and pytest suites.
-- Ran large-scale **RLHF / SFT / LLM response evaluation** workflows and improved inter-rater consistency.
+**Tensium — RL Engineer**
+- Design and develop reinforcement learning environments and challenging tasks aimed at improving frontier AI model capabilities, including complex and long-horizon tasks requiring multi-step reasoning, planning, tool use, and reliable execution.
+- Stress-test existing environments and benchmarks to identify weaknesses in reward design, verifiers, task specifications, evaluation logic, and benchmark coverage, including potential reward-hacking paths.
+
+**Mercor — Data Judge - Researcher**
+- Final-batch data analysis, LLM evaluation calibration, and dataset-quality improvement for AI evaluation workflows; calibrator on evaluation batches.
+- Reviewing LLM outputs for accuracy, factual consistency, reasoning quality, and instruction-following; identifying hallucinations, unsupported claims, ambiguity issues, and model failure patterns.
+
+**Turing — RL Engineer / LLM Engineer**
+- Worked across machine learning, scientific computing and mathematics domains for Terminal-Bench 2.0, leading large-scale task creation and evaluation workflows used to benchmark frontier AI models.
+- SWE-Bench and OSWorld datasets now used as accuracy-validation benchmarks for emerging state-of-the-art models; trained annotators and engineers on evaluation protocols, scoring rubrics and task design.
 
 **Pulcify — Lead Software Engineer**
-- Built a scalable workforce management platform with AI-driven features.
-- Led frontend delivery and AI ↔ UI integration (React, LangChain, Shadcn).
+- Built backend services and REST APIs in Java (Spring Boot) and Python for an AI-powered workforce management platform, plus the React front-end features on top of them; shipped LLM-powered features using LangChain.
 
 **Digitally Up — Software Engineer**
-- Shipped React + Shadcn frontends with LLM/LangChain automation features.
-- Implemented Google Maps geospatial flows (live tracking, geolocation, interactive maps).
+- Built full-stack production applications with Spring Boot, Django and React.js, including Google Maps and third-party system integrations; added AI features with Python, LangChain and LLM-based chatbots.
 
-**CLE, KICS UET Lahore — LLM Researcher Intern**
-- Researched GPT-based text summarization; literature review and fine-tuning for specialized NLP tasks.
+**KICS, UET Lahore — Artificial Intelligence Researcher**
+- Researched GPT-based models for text summarization, starting with a literature review of state-of-the-art NLP and LLM architectures; fine-tuned and implemented GPT-based summarization models.
 
 </details>
 
@@ -94,46 +112,50 @@
 
 ## <img src="https://api.iconify.design/lucide/flask-conical.svg?color=%2358A6FF" height="22"/> Research & Benchmarks
 
-| Benchmark / Program | Focus | Reference |
-|---------------------|-------|-----------|
-| **Terminal-Bench** | Real-world terminal tasks, Harbor 2.0, reproducible CLI agent eval | [arXiv:2601.11868](https://arxiv.org/abs/2601.11868) |
+| Benchmark | Focus | Reference |
+|-----------|-------|-----------|
+| **Terminal-Bench** | Real-world terminal tasks, Harbor, reproducible CLI agent eval | [arXiv:2601.11868](https://arxiv.org/abs/2601.11868) |
+| **SWE-bench / SWE-bench Pro** | Software engineering agents on real GitHub issues | [arXiv:2310.06770](https://arxiv.org/abs/2310.06770) · [arXiv:2509.16941](https://arxiv.org/abs/2509.16941) |
 | **OSWorld** | Multimodal desktop agents in authentic OS environments | [arXiv:2404.07972](https://arxiv.org/abs/2404.07972) |
-| **SWE-Bench** | Software engineering agents on real GitHub issues | [arXiv:2310.06770](https://arxiv.org/abs/2310.06770) |
-| **Meta OpenClaw & client programs** | Frontier-model evaluation delivery for **Meta**, **Alibaba**, **Tencent** | Enterprise eval pipelines |
+| **Computer-use agents** | Long-horizon tasks in simulated business software stacks | Harbor / Docker harnesses |
 
-Hands-on work spans task design, golden solutions, Dockerized sandboxes, pytest scoring, and QA calibration—so benchmark results stay **auditable and repeatable**.
+Hands-on work spans task design, golden solutions, Dockerized sandboxes, pytest scoring, verifier hardening and QA calibration, so benchmark results stay **auditable and repeatable**.
 
 ---
 
 ## <img src="https://api.iconify.design/lucide/folder-code.svg?color=%2358A6FF" height="22"/> Featured Projects
 
-- **Code Evaluation VS Code Extension (FYP / Codex)** — LLM-powered JUnit test generation and code evaluation via SFT and GitHub scraping; research-forward tooling for developer eval loops.
-- **Pulcify** — Workforce management with AI features, scheduling, GPS tracking (Python, DynamoDB, React, LangChain, Shadcn, Stripe, Google Maps).
-- **Invoice Processing System (CVIP)** — Flask + YOLOv11 + Tesseract + MySQL for invoice OCR automation.
-- **Meliora Products** — Inventory and order management web app for a chemical products company.
-- **Django Storefront** — Headless e-commerce API with JWT auth, Celery, Redis, PostgreSQL.
+- **[SWE Env Forge](https://github.com/phoenixlibbi/swe-env-forge)**: SWE-bench and SWE-bench Pro rebuilt as a factory for verified RL coding environments, with a verifier hardened against reward hacking.
+- **[Terminal-Bench Reward Lens](https://github.com/phoenixlibbi/terminal-bench-reward-lens)**: binary vs. dense rewards for AI agents on Terminal-Bench and Long-Horizon-Terminal-Bench.
+- **Codex, VS Code extension (Final Year Project)**: generates unit tests from Java functions; scraped ~100,000 public Java repositories and fine-tuned LLMs for unit test generation.
+- **[Invoice Processing (CVIP)](https://github.com/phoenixlibbi/CVIP)**: Flask + YOLOv11 + Tesseract OCR + MySQL for automated invoice extraction.
+- **Urdu News Summarization**: abstractive Urdu news summaries with a fine-tuned mBART model.
 
 ---
 
 ## <img src="https://api.iconify.design/lucide/blocks.svg?color=%2358A6FF" height="22"/> Tech Stack
 
-**Core:** LLM Evaluation · RLHF / SFT · Prompt Engineering · Agent Benchmarking · Full-Stack AI
+**Core:** RL Environments · Verifiers & Reward Design · RLHF / Post-Training · LLM Evaluation · AI Agents · Cloud & Distributed Data Pipelines
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,django,flask,cpp,c,bash,docker,linux,postgres,mysql,git,github,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,docker,kubernetes,aws,gcp,linux,bash,git,github,postgres,mysql,typescript,javascript,react,django,flask,java,cpp,vscode&perline=10" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" />
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
-  <img src="https://img.shields.io/badge/OSWorld-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Harbor-111111?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Terminal--Bench-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SWE--Bench-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SWE--bench-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OSWorld-111111?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RLHF-6E40C9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SFT-6E40C9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-238636?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Reward_Modeling-6E40C9?style=for-the-badge" />
 </p>
 
 ---
@@ -142,16 +164,11 @@ Hands-on work spans task design, golden solutions, Dockerized sandboxes, pytest 
 
 | Certification | Provider |
 |---------------|----------|
-| [Python (Basic)](https://www.hackerrank.com/certificates) | HackerRank |
-| [Generative AI for Everyone](https://www.coursera.org/account/accomplishments/verify) | DeepLearning.AI |
-| [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization) | DeepLearning.AI |
-
----
-
-## <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%2358A6FF" height="22"/> Education
-
-- **BS Software Engineering** — University of Engineering and Technology (UET) Lahore
-- **ICS (Intermediate in Computer Science)** — Government College of Technology (GCT) Lahore
+| [Introduction to Agent Skills](https://verify.skilljar.com/c/7rn3epzdkdhb) | Anthropic |
+| [Introduction to Model Context Protocol](https://verify.skilljar.com/c/xegbs6p759q5) | Anthropic |
+| [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/SWK37VLL4T4U) | DeepLearning.AI & Stanford University |
+| [Generative AI for Everyone](https://www.coursera.org/account/accomplishments/verify/MH6RMPH798J4) | DeepLearning.AI |
+| [Python (Basic)](https://www.hackerrank.com/certificates/43655bb7a407) | HackerRank |
 
 ---
 
@@ -179,5 +196,5 @@ Hands-on work spans task design, golden solutions, Dockerized sandboxes, pytest 
 
 <p align="center">
   <img src="https://api.iconify.design/lucide/handshake.svg?color=%2358A6FF" height="18"/>
-  <i>Open to collaboration on LLM evaluation, RLHF data quality, and agent benchmarking.</i>
+  <i>Always happy to swap notes on RL environments, reward design, evals and agents.</i>
 </p>
