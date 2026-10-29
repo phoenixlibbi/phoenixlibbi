@@ -46,10 +46,20 @@
 
 - <img src="https://api.iconify.design/lucide/building-2.svg?color=%2358A6FF" height="18"/> **RL Engineer - Researcher @ Turing**: research on RL, RLHF, reward modeling, task hardness and evaluation methodology; environments, verifiers and evaluation harnesses for terminal agents (Harbor), SWE-bench-style coding tasks and computer-use agents.
 - <img src="https://api.iconify.design/lucide/shield-check.svg?color=%2358A6FF" height="18"/> Verifiers, graders and reward signals that hold up under adversarial pressure: deterministic tests, LLM-as-judge, oracle validation and reward-hacking audits.
-- <img src="https://api.iconify.design/lucide/file-code-2.svg?color=%2358A6FF" height="18"/> **Paper → Code**: I implement one research paper at a time end to end and publish the code, e.g. [SWE Env Forge](https://github.com/phoenixlibbi/swe-env-forge) and [Terminal-Bench Reward Lens](https://github.com/phoenixlibbi/terminal-bench-reward-lens).
+- <img src="https://api.iconify.design/lucide/file-code-2.svg?color=%2358A6FF" height="18"/> **Paper → Code**: I implement one research paper at a time end to end and publish the code: [EsoLang-Verified](https://github.com/phoenixlibbi/esolang-verified), [SWE Env Forge](https://github.com/phoenixlibbi/swe-env-forge) and [Terminal-Bench Reward Lens](https://github.com/phoenixlibbi/terminal-bench-reward-lens).
 - <img src="https://api.iconify.design/lucide/cloud.svg?color=%2358A6FF" height="18"/> PII/CII de-identification: a distributed redaction pipeline for almost any input, on cloud infrastructure with Kubernetes and BigQuery.
 - <img src="https://api.iconify.design/lucide/layers.svg?color=%2358A6FF" height="18"/> Earlier: RL Engineer at **Tensium**, Data Judge - Researcher at **Mercor**, Lead Software Engineer at **Pulcify**, Software Engineer at **Digitally Up**, AI research at **KICS, UET Lahore**.
 - <img src="https://api.iconify.design/lucide/messages-square.svg?color=%2358A6FF" height="18"/> Always happy to swap notes on **RL environments, reward design, evals and agents**.
+
+---
+
+## <img src="https://api.iconify.design/lucide/file-code-2.svg?color=%2358A6FF" height="22"/> Paper → Code: Open-Source RL Environments
+
+| Project | What it does |
+|---------|--------------|
+| [**EsoLang-Verified**](https://github.com/phoenixlibbi/esolang-verified) | Verified, contamination-resistant RL environments for unfamiliar-language coding tasks (EsoLang-Bench): mutation-score audit, private test suites, isolated grader, Harbor tasks. Model-free. |
+| [**SWE Env Forge**](https://github.com/phoenixlibbi/swe-env-forge) | SWE-bench and SWE-bench Pro end to end: any git repo in, verified RL environments for coding agents out, with a verifier hardened against reward hacking. |
+| [**Terminal-Bench Reward Lens**](https://github.com/phoenixlibbi/terminal-bench-reward-lens) | Binary vs. dense rewards for AI agents on Terminal-Bench and Long-Horizon-Terminal-Bench; reward-hacking tests for verifiers. |
 
 ---
 
@@ -59,6 +69,7 @@
 |-----------|-------|-----------|
 | **Terminal-Bench** | Real-world terminal tasks, Harbor, reproducible CLI agent eval | [arXiv:2601.11868](https://arxiv.org/abs/2601.11868) |
 | **SWE-bench / SWE-bench Pro** | Software engineering agents on real GitHub issues | [arXiv:2310.06770](https://arxiv.org/abs/2310.06770) · [arXiv:2509.16941](https://arxiv.org/abs/2509.16941) |
+| **EsoLang-Bench** | Unfamiliar-language coding tasks (Brainfuck, Befunge-98, Whitespace) for coding agents | [arXiv:2603.09678](https://arxiv.org/abs/2603.09678) · [arXiv:2606.10933](https://arxiv.org/abs/2606.10933) |
 | **OSWorld** | Multimodal desktop agents in authentic OS environments | [arXiv:2404.07972](https://arxiv.org/abs/2404.07972) |
 | **Computer-use agents** | Long-horizon tasks in simulated business software stacks | Harbor / Docker harnesses |
 
